@@ -13,7 +13,7 @@ st.markdown(
 )
 
 # Page title and description
-st.title("🌡️ Interactive Temperature Converter")
+st.title("🌡️ Temperature Converter")
 st.write("Convert temperatures easily between Celsius, Fahrenheit, and Kelvin.")
 
 # Divider
